@@ -52,6 +52,11 @@ const MouseFollower = ({ children, className = '', speed = 1 }) => {
 const EventDetails = ({ event: propEvent }) => {
   const { id } = useParams();
   const event = propEvent || events.find(e => e.id === parseInt(id));
+  const [expandedContestId, setExpandedContestId] = useState(null);
+
+  const handleContestToggle = (contestId) => {
+    setExpandedContestId(expandedContestId === contestId ? null : contestId);
+  };
 
   if (!event) {
     return (
@@ -177,6 +182,8 @@ const EventDetails = ({ event: propEvent }) => {
                     key={contest.id}
                     contest={contest}
                     index={index}
+                    isExpanded={expandedContestId === contest.id}
+                    onToggle={() => handleContestToggle(contest.id)}
                   />
                 ))}
               </div>
