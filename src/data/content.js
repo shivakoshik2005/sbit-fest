@@ -208,9 +208,9 @@ export const events = [
     id: 5,
     name: "Womens' Sports Gala",
     comingSoon: true,
-    banner: "https://i.ibb.co/YB7hxpwy/image.pngw=800&q=80",
+    banner: "https://i.ibb.co/rRC4sSY5/image.pngw=800&q=80",
     description: "Get ready for some action-packed sports events. Compete in traditional sports and fun activities.<br/> Coming Soon....",
-    image: "https://i.ibb.co/YB7hxpwy/image.pngw=600&q=80",
+    image: "https://i.ibb.co/rRC4sSY5/image.pngw=600&q=80",
     icon: "https://i.ibb.co/vvPSnqtG/4cea6d4a6d970fa15156e5faeb595a4f.jpgw=200&q=80",
     contests: [
       {
