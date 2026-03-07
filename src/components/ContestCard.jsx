@@ -33,6 +33,17 @@ const ContestCard = ({ contest, index, onRegister, isExpanded, onToggle }) => {
           </div>
         )}
         
+        {/* Registrations Closed Overlay */}
+        {contest.registerLink === "Closed" && (
+          <div className="absolute inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center">
+            <div className="bg-red-500/80 border-2 border-red-400 backdrop-blur-md px-3 py-1.5 rounded-lg">
+              <span className="text-white font-bold text-xs tracking-wider uppercase drop-shadow-lg">
+                Registrations Closed
+              </span>
+            </div>
+          </div>
+        )}
+        
         {/* Trophy Icon */}
         <div className="absolute top-3 right-3 p-2 rounded-lg bg-white/20 backdrop-blur-sm">
           <Trophy className="w-4 h-4 text-yellow-400" />

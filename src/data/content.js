@@ -120,9 +120,9 @@ export const events = [
         id: 4,
         name: "Treasure Hunt",
         poster: "https://i.ibb.co/QvbCng6L/image.pngw=400&q=80",
-        description: "Embark on an exciting treasure hunt across the campus. Solve clues, complete challenges, and find the hidden treasure.",
+        description: "Registrations Closed 🚫",
         rules: "1. Team of 4-6 members\n2. Clues will be provided at start\n3. Time limit: 2 hours\n4. Use of mobile not allowed for clues\n5. First team to find treasure wins",
-        registerLink: "https://forms.gle/JGzSCf4i8MbD9Fzh6"
+        registerLink: "Closed"
       },
       {
         id: 5,
