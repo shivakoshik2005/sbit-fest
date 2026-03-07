@@ -86,7 +86,7 @@ export const events = [
   },
   {
     id: 2,
-    name: "Cultural Odyssey",
+    name: "Creative Odyssey",
     banner: "https://i.ibb.co/JWHfc7Nh/image.pngw=800&q=80",
     description: "A vibrant collection of skills in photography, filmmaking, storytelling, and critical thinking. This event celebrates creativity and artistic expression in various forms.",
     image: "https://i.ibb.co/JWHfc7Nh/image.pngw=600&q=80",
@@ -158,6 +158,14 @@ export const events = [
         description: "Perform a skit or play that captivates the audience. Showcase your acting skills and creativity.<br/> Coming Soon....",
         rules: "1. Team of 5-10 members\n2. Duration: 10-15 minutes\n3. Theme will be announced at start\n4. Use of props allowed\n5. Decision of judges is final",
         registerLink: "https://forms.gle/RangasthalamRegistration"
+      },
+      {
+        id: 3,
+        name: "Swarotsav",
+        poster: "https://i.ibb.co/Ld3bt5Mr/image.pngw=400&q=80",
+        description: "Unleash your vocal talent in this singing competition. Sing your heart out and win the hearts of the judges.<br/> Coming Soon....",
+        rules: "1. Individual or Team participation.\n2. Duration: 3-5 minutes\n3. Any genre of music\n4. Use of backing tracks allowed\n5. Decision of judges is final",
+        registerLink: "https://forms.gle/sGVucbrHYg5AQAjn7"
       }
     ]
   },
@@ -197,20 +205,28 @@ export const events = [
       {
         id: 4,
         name: "Chess",
-        comingSoon: true,
+        comingSoon: false,
         poster: "https://i.ibb.co/KjsDgdfz/image.pngw=400&q=80",
-        description: "Test your strategic thinking in this classic game of chess. Compete in a knockout tournament and showcase your tactical skills. <br/> Coming Soon....",
+        description: "Test your strategic thinking in this classic game of chess. Compete in a knockout tournament and showcase your tactical skills.",
         rules: "1. Individual participation\n2. Standard chess rules\n3. 30 minutes per player\n4. Knockout format\n5. Chess sets provided",
-        registerLink: "Opening Soon"
+        registerLink: "https://forms.gle/nRrCrqiVb6skn6av5"
+      },
+      {
+        id: 5,
+        name: "Tug of War",
+        poster: "https://i.ibb.co/zhML6s0Y/Gemini-Generated-Image-llw2b7llw2b7llw2.pngw=400&q=80",
+        description: "Show your strength and teamwork in this classic tug of war competition. Pull your way to victory against other teams. <br/> Coming Soon....",
+        rules: "1. Team of 7 members\n2. Best of 3 rounds\n3. Knockout format\n4. Rope provided\n5. Decision of judges is final",
+        registerLink: "https://forms.gle/GBy13hgXph2Lk4UV9"
       }
     ]
   },
   {
     id: 5,
     name: "Womens' Sports Gala",
-    comingSoon: true,
+    comingSoon: false,
     banner: "https://i.ibb.co/rRC4sSY5/image.pngw=800&q=80",
-    description: "Get ready for some action-packed sports events. Compete in traditional sports and fun activities.<br/> Coming Soon....",
+    description: "Get ready for some action-packed sports events. Compete in traditional sports and fun activities.",
     image: "https://i.ibb.co/rRC4sSY5/image.pngw=600&q=80",
     icon: "https://i.ibb.co/vvPSnqtG/4cea6d4a6d970fa15156e5faeb595a4f.jpgw=200&q=80",
     contests: [
@@ -220,7 +236,7 @@ export const events = [
         poster: "https://i.ibb.co/YT8myv2V/image.pngw=400&q=80",
         description: "Unleash your agility and skill in this fast-paced badminton tournament. Compete in singles or doubles and aim for victory.<br/> Coming Soon....",
         rules: "1. Singles and doubles\n2. Best of 3 games\n3. 21 points each game\n4. Knockout format\n5. Bring own racket",
-        registerLink: "Closed"
+        registerLink: "https://forms.gle/F9BmbTAL43ufUckQ8"
       },
       {
         id: 2,
@@ -228,7 +244,7 @@ export const events = [
         poster: "https://i.ibb.co/844cCyJ4/image.pngw=400&q=80",
         description: "Show your strength and teamwork in this classic tug of war competition. Pull your way to victory against other teams. <br/> Coming Soon....",
         rules: "1. Team of 6-10 members\n2. Best of 3 rounds\n3. Knockout format\n4. Rope provided\n5. Decision of judges is final",
-        registerLink: "Closed"
+        registerLink: "https://forms.gle/5vJgVk115qzhJp1AA"
       },
       {
         id: 3,
@@ -236,7 +252,15 @@ export const events = [
         poster: "https://i.ibb.co/Y76MKRXw/image.pngw=400&q=80",
         description: "Test your strategic thinking in this classic game of chess. Compete in a knockout tournament and showcase your tactical skills.",
         rules: "1. Individual participation\n2. Standard chess rules\n3. 30 minutes per player\n4. Knockout format\n5. Chess sets provided",
-        registerLink: "Opening Soon"
+        registerLink: "https://forms.gle/3Ywk17MKNke63HKo6"
+      },
+      {
+        id: 4,
+        name: "Throwball",
+        poster: "https://i.ibb.co/27dxN8zx/image.pngw=400&q=80",
+        description: "Test your agility and coordination in this exciting throwball tournament. Compete in a knockout format and showcase your skills.",
+        rules: "1. Team of 6-10 members\n2. Best of 3 rounds\n3. Knockout format\n4. Balls provided\n5. Decision of judges is final",
+        registerLink: "https://forms.gle/yEzo8k8twZxoZgC69"
       }
     ]
   }
