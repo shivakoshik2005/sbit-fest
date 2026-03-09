@@ -147,7 +147,7 @@ export const events = [
         id: 1,
         name: "Dance Battle",
         poster: "https://i.ibb.co/NgC67JcM/image.pngw=400&q=80",
-        description: "Show off your dance moves in this high-energy dance battle. Compete against other teams and impress the judges.<br/> Coming Soon....",
+        description: "Show off your dance moves in this high-energy dance battle. Compete against other teams and impress the judges. Coming Soon....",
         rules: "1. Team of 4-8 members\n2. Duration: 5-10 minutes\n3. Any dance style\n4. Use of props allowed\n5. Decision of judges is final",
         registerLink: "https://forms.gle/UyLHsU8sJoTBSoYt9"
       },
@@ -155,7 +155,7 @@ export const events = [
         id: 2,
         name: "Rangasthalam",
         poster: "https://i.ibb.co/rGSwvLLJ/image.pngw=400&q=80",
-        description: "Perform a skit or play that captivates the audience. Showcase your acting skills and creativity.<br/> Coming Soon....",
+        description: "Perform a skit or play that captivates the audience. Showcase your acting skills and creativity. Coming Soon....",
         rules: "1. Team of 5-10 members\n2. Duration: 10-15 minutes\n3. Theme will be announced at start\n4. Use of props allowed\n5. Decision of judges is final",
         registerLink: "https://forms.gle/RangasthalamRegistration"
       },
@@ -163,7 +163,7 @@ export const events = [
         id: 3,
         name: "Swarotsav",
         poster: "https://i.ibb.co/Ld3bt5Mr/image.pngw=400&q=80",
-        description: "Unleash your vocal talent in this singing competition. Sing your heart out and win the hearts of the judges.<br/> Coming Soon....",
+        description: "Unleash your vocal talent in this singing competition. Sing your heart out and win the hearts of the judges. Coming Soon....",
         rules: "1. Individual or Team participation.\n2. Duration: 3-5 minutes\n3. Any genre of music\n4. Use of backing tracks allowed\n5. Decision of judges is final",
         registerLink: "https://forms.gle/sGVucbrHYg5AQAjn7"
       }
