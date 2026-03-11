@@ -299,7 +299,7 @@ export const events = [
 
 export const contactInfo = {
   email: "csefest.sbit@gmail.com",
-  phone: "+91 8712112331",
+  phone: "+91 8639049155",
   address: "Swarna Bharathi Institute of Science and Technology, Khammam, Telangana",
   social: {
     instagram: "https://www.instagram.com/sbit_innovation_centre?igsh=MXE1OXRmODNkaG1oNg==",
