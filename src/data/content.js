@@ -184,7 +184,7 @@ export const events = [
         poster: "https://i.ibb.co/vCQktVg2/image.pngw=400&q=80",
         description: "Unleash your agility and skill in this fast-paced badminton tournament. Compete in singles or doubles and aim for victory.<br/> Coming Soon....",
         rules: "1. Singles and doubles\n2. Best of 3 games\n3. 21 points each game\n4. Knockout format\n5. Bring own racket",
-        registerLink: "Closed"
+        registerLink: "https://forms.gle/HqnRoGChnezZXBx26"
       },
       {
         id: 3,
@@ -228,7 +228,7 @@ export const events = [
         poster: "https://i.ibb.co/YT8myv2V/image.pngw=400&q=80",
         description: "Unleash your agility and skill in this fast-paced badminton tournament. Compete in singles or doubles and aim for victory.<br/> Coming Soon....",
         rules: "1. Singles and doubles\n2. Best of 3 games\n3. 21 points each game\n4. Knockout format\n5. Bring own racket",
-        registerLink: "Closed"
+        registerLink: "https://forms.gle/JL7KEGzNTFUZqRqa7"
       },
       {
         id: 2,
@@ -252,7 +252,7 @@ export const events = [
         poster: "https://i.ibb.co/27dxN8zx/image.pngw=400&q=80",
         description: "Test your agility and coordination in this exciting throwball tournament. Compete in a knockout format and showcase your skills.",
         rules: "1. Team of 6-10 members\n2. Best of 3 rounds\n3. Knockout format\n4. Balls provided\n5. Decision of judges is final",
-        registerLink: "https://forms.gle/yEzo8k8twZxoZgC69"
+        registerLink: "Closed"
       }
     ]
   }
