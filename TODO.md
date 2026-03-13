@@ -1,11 +1,15 @@
-# Badminton Page Implementation TODO
+# Task Reversal Complete - Separate Badminton Page Removed
 
-## Steps:
-- [x] 1. Create TODO.md
-- [x] 2. Create src/pages/Badminton.jsx (new page with combined Badminton contests)
-- [x] 3. Update src/App.jsx (add /badminton route)
-- [x] 4. Update src/components/Header.jsx (add Badminton nav link)
-- [ ] 5. Test page functionality
-- [x] 6. Update TODO.md with completion
-- [ ] 7. Complete task with attempt_completion
+**Original State Restored:**
+- src/pages/Badminton.jsx deleted
+- App.jsx route `/badminton` removed
+- Header.jsx "Badminton" nav link removed
+
+Badminton contests accessible via:
+- Men's Sports Gala (/events/4) → Badminton Boys
+- Women's Sports Gala (/events/5) → Badminton Girls
+
+Dev server: http://localhost:3000 (restarted if needed).
+
+Task feedback addressed.
 

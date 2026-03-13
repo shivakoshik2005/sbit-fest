@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import Events from './pages/Events';
 import EventDetails from './pages/EventDetails';
 import Gallery from './pages/Gallery';
-import Badminton from './pages/Badminton';
+
 import SplashScreen from './components/SplashScreen';
 
 function App() {
@@ -40,7 +40,7 @@ function App() {
           element={<EventDetails event={selectedEvent} />} 
         />
         <Route path="/gallery" element={<Gallery />} />
-        <Route path="/badminton" element={<Badminton />} />
+
       </Routes>
     </>
   );
