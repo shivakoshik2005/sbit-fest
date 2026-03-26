@@ -128,9 +128,9 @@ export const events = [
         id: 5,
         name: "Riddle Rumble",
         poster: "https://i.ibb.co/Zp2f0Gd4/image.pngw=400&q=80",
-        description: "Registrations Closed 🚫",
+        description: "Riddle your way to victory in this mind-bending competition. Solve puzzles, riddles, and brainteasers to outsmart your opponents.",
         rules: "Team participation (3–4 members)\n2. Two rounds with five progressive difficulty levels\n3. Buzzer-based system for puzzles, trivia, and reasoning\n4. First-to-press advantage with points passed on incorrect answers\n5. Elimination after Round 1 to determine top contenders\n6. Round 2 features increased difficulty and limited time\n7. Final level determines the winner and runner-up teams",
-        registerLink: "Closed"
+        registerLink: "https://forms.gle/DvCfiN3wxwyn9WWJ9"
       }
     ]
   },
